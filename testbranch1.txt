@@ -1,1 +1,3 @@
 line1: Wonder if I can make a conflict
+
+Right, say this is different in test branch 1
